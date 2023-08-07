@@ -16,7 +16,7 @@ As programmers and power users, we often find ourselves working with a variety o
 
 ## Contributing
 
-We welcome contributions from all developers and power users! To add new shortcuts or suggest improvements, follow these steps:
+_We welcome contributions from all developers and power users! To add new shortcuts or suggest improvements, follow these steps:_
 
 1. Fork this repository to your own GitHub account.
 2. Clone the forked repository to your local machine.
@@ -30,7 +30,7 @@ Our community will review your contribution, provide feedback if needed, and mer
 
 ## Usage
 
-You can use this repository in the following ways:
+_You can use this repository in the following ways:_
 
 1. **Browse**: Explore the various categories of shortcuts listed in this repository to find the ones relevant to your tools and workflow.
 2. **Contribute**: Share your knowledge and help the community by adding new shortcuts that you find useful or by improving existing ones.
@@ -38,7 +38,7 @@ You can use this repository in the following ways:
 
 ## Shortcuts Categories
 
-This repository is organized into different categories of tools and platforms. Currently, it includes the following categories:
+_This repository is organized into different categories of tools and platforms. Currently, it includes the following categories:_
 
 - **Text Editors/IDEs**: Shortcuts for popular code editors and integrated development environments.
 - **Terminal**: Productivity shortcuts for command-line interfaces and terminal emulators.
