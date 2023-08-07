@@ -1,0 +1,41 @@
+• Zoom In: Ctrl + "+"
+• Zoom Out: Ctrl + "-"
+• Zoom In: Alt + Scroll Wheel Up
+• Zoom Out: Alt + Scroll Wheel Down
+• Add to Selection: Shift
+• Subtract from Selection: Alt
+• Intersect with Selection: Shift + Alt
+• Fill with Foreground Color: Alt + Backspace
+• Fill with Background Color: Ctrl + Backspace
+• Undo: Ctrl + Z
+• Redo (Undo Undo): Ctrl + Shift + Z
+• Delete Layer: Backspace
+• Select All: Ctrl + A
+• Deselect: Ctrl + D
+• Select Inverse: Ctrl + Shift + I
+• Add to Selection (Marquee, Lasso, etc.): Hold Shift while selecting
+• Subtract from Selection (Marquee, Lasso, etc.): Hold Alt while selecting
+• Intersect with Selection (Marquee, Lasso, etc.): Hold Alt + Shift while selecting
+• Remove Checkpoint in Polygonal Lasso Selection: Backspace
+• Full-Screen Mode and Easy Panning: Press the letter "F" key
+• Duplicate Selection to New Layer: Ctrl + J
+• Resize Brush: Use the square brackets "[" and "]" to decrease or increase the brush size, respectively.
+• Zoom In: Ctrl + Spacebar
+• Zoom Out: Alt + Spacebar
+• Move Tool (Temporary): Hold the Spacebar while using another tool
+• Brush Opacity: Use the number keys (1 to 9) to set the opacity of the brush. For example, pressing "5" will set the opacity to 50%.
+• Brush Flow: Use the Shift key + number keys (1 to 9) to set the flow of the brush. For example, Shift + 5 will set the flow to 50%.
+• Cycle Through Blending Modes: Shift + "+"/"-" (Plus/Minus key) will cycle through blending modes for the currently selected layer.
+• Toggle Layer Mask: Shift + Click on the layer mask thumbnail to enable or disable the mask.
+• Merge Visible Layers: Ctrl + Shift + Alt + E (Cmd + Shift + Option + E on Mac) will merge all visible layers into a new layer on top.
+• Toggle Rulers: Ctrl + R (Cmd + R on Mac) to show or hide rulers.
+• Show/Hide Extras: Ctrl + H (Cmd + H on Mac) to toggle the visibility of extras like grids, guides, and selections.
+• Transform Selection: Ctrl + T (Cmd + T on Mac) to activate the Free Transform tool for selections.
+• Transform Layers: Ctrl + T (Cmd + T on Mac) to activate the Free Transform tool for layers.
+• Rotate View: R (Hold) + Move Mouse to rotate the canvas temporarily.
+• Cycle through Brushes: Use the comma (,) and period (.) keys to cycle through different brushes in the brush panel.
+• Swap Foreground/Background Colors: X key to swap the foreground and background colors.
+• Toggle Quick Mask Mode: Q to enter or exit Quick Mask mode for easy editing of selections.
+• Toggle Layer Visibility: Click the eye icon next to a layer in the Layers panel to toggle its visibility.
+• Toggle Lock Layer Transparency: Click the checkerboard icon on a layer to toggle its transparency lock.
+• Select Next/Previous Layer: Use the Ctrl + "]" (Cmd + "]" on Mac) and Ctrl + "[" (Cmd + "[" on Mac) to select the next or previous layer, respectively.

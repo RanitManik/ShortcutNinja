@@ -1,0 +1,8 @@
+• windows + ctrl + T = always on top
+• windows + shift + T = extract text and copied to clipboard
+• windows + shift + c = color picker
+• windows + shift + H = Enable Mouse Highlighter
+• windows + ctrl + alt + V = Enable Paste As Plain Text
+• ctrl + space = Enable Peek
+• windows + shift + M = Enable Screen Ruler
+• windows + shift + / = Enable Shortcut Guide

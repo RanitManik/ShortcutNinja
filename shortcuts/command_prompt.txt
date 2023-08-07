@@ -1,0 +1,13 @@
+• select + enter = copy text
+• make a quotation mark always before writing a file or a directory name
+• color ? = color change options
+• title (name) = change the title
+• prompt (name) = shows the name in place of the Directory
+• mode (size) = to change the size of the command prompt(30*60*90)
+• tree = shows all the files and folders in the current path in the form of a tree
+• hostname = Get the hostname
+• doskey/history = know the history
+• date = change or show the date 
+• time = change or show the time 
+• shutdown -s -t {timer in sec ; if no type 00} = shutdown after time set
+• shutdown -r -t {timer in sec ; if no type 00} = restart after time set
