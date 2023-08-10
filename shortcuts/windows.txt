@@ -47,4 +47,4 @@
 • Win + Ctrl + D: Create a new virtual desktop (Windows 10 and later).
 • Win + Ctrl + Left/Right Arrow: Switch between virtual desktops.
 • Ctrl + Shift + N: Create a new folder in File Explorer.
-• Ctrl + Shift + Esc: Open Task Manager directly (Windows 7 and earlier).
+• Ctrl + Shift + Esc: Open Task Manager directly (Windows 7 and later).
