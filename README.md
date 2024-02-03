@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 <div align="center">
-   <img height="200" src="https://www.somsdigital.co.za/wp-content/uploads/2022/07/easy-keyboard-shortcuts06.gif">
+   <img height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/1161px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png">
    <h1>ShortcutNinja - Programmer's Power Shortcuts</h1>
 </div>
 
