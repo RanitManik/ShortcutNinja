@@ -1,6 +1,3 @@
-# Table of Contents
-1. [Hyphens, En Dashes, and Em Dashes](#hyphens-en-dashes-and-em-dashes)
-
 # Hyphens, En Dashes, and Em Dashes
 
 ### Introduction:
