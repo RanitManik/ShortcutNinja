@@ -1,8 +1,9 @@
 <a name="readme-top"></a>
 <div align="center">
-
-   #    ShortcutNinja - Programmer's Power Shortcuts
+   <img height="200" src="https://www.somsdigital.co.za/wp-content/uploads/2022/07/easy-keyboard-shortcuts06.gif">
+   <h1>ShortcutNinja - Programmer's Power Shortcuts</h1>
 </div>
+
 Welcome to the ShortcutNinja repository! This project aims to compile a comprehensive list of essential keyboard shortcuts and productivity tips for programmers and power users. Whether you are a seasoned developer or just getting started, ShortcutNinja will help you level up your workflow and boost your efficiency.
 
 ## Table of Contents
