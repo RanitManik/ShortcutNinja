@@ -65,9 +65,7 @@
 | less       | Display output one screen at a time                         | `less filename` (view file content)                   |
 | ln         | Make links between files                                    | `ln -s sourcefile linkname` (create a symbolic link)  |
 | locate     | Find files                                                 | `locate filename` (find the path of a file)           |
-| logname    | Print current login name
-
-                                    | `logname` (display the current user's login name)      |
+| logname    | Print current login name                                    | `logname` (display the current user's login name)      |
 | lpc        | Line printer control program                               | `lpc status` (check printer status)                   |
 | lpr        | Off line print                                             | `lpr filename` (print a file)                         |
 | lprm       | Remove jobs from the print queue                            | `lprm jobnumber` (remove a print job)                  |
