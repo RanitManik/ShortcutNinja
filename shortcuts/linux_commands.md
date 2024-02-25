@@ -125,9 +125,7 @@
 | tsort      | Topological sort                                           | `tsort filename` (perform topological sort)           |
 | tty        | Print filename of terminal on stdin                         | `tty` (display filename of terminal)                  |
 | umount     | Unmount a device                                            | `umount /mnt` (unmount a mounted device)             |
-| uname      | Print system information                                    | `uname -a` (display system information)              
-
- |
+| uname      | Print system information                                    | `uname -a` (display system information)            |
 | unexpand   | Convert spaces to tabs                                      | `unexpand -t 4 filename` (convert spaces to tabs)    |
 | uniq       | Uniquify files                                              | `uniq filename` (remove consecutive duplicate lines)|
 | units      | Convert units from one scale to another                     | `units "1 meter" "feet"` (convert units)             |
