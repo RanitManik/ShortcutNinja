@@ -1,4 +1,4 @@
-# powerToys Essential Shortcuts
+# powerToys Shortcuts
 
 | Shortcut                   | Description                                           |
 | -------------------------- | ----------------------------------------------------- |

@@ -1,4 +1,4 @@
-# command prompt Essential Shortcuts
+# command prompt Shortcuts
 
 | Command                              | Description                                                  |
 | ------------------------------------ | ------------------------------------------------------------ |

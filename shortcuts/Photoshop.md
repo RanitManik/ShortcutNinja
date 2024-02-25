@@ -1,4 +1,4 @@
-# phototshop Essential Shortcuts
+# phototshop Shortcuts
 
 | Action                                          | Shortcut                                                      |
 | ----------------------------------------------- | ------------------------------------------------------------- |

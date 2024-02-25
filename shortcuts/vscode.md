@@ -1,4 +1,4 @@
-# vscode Essential Shortcuts
+# vscode Shortcuts
 
 | Shortcut             | Description                        | Shortcut             | Description                        |
 | -------------------- | ---------------------------------- | -------------------- | ---------------------------------- |
