@@ -1,7 +1,7 @@
 # powerToys Shortcuts
 
 | Shortcut                   | Description                                           |
-| -------------------------- | ----------------------------------------------------- |
+|----------------------------|-------------------------------------------------------|
 | `Windows + Ctrl + T`       | Keep the window always on top                         |
 | `Windows + Shift + T`      | Extract text and copy to clipboard                    |
 | `Windows + Shift + C`      | Open a color picker dialog                            |

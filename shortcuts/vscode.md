@@ -1,7 +1,7 @@
 # vscode Shortcuts
 
 | Shortcut             | Description                        | Shortcut             | Description                        |
-| -------------------- | ---------------------------------- | -------------------- | ---------------------------------- |
+|----------------------|------------------------------------|----------------------|------------------------------------|
 | `Ctrl + B`           | Show/Hide Sidebar                  | `Ctrl + W`           | Close File                         |
 | `Ctrl + ~`           | Open/Closed Terminal               | `Ctrl + Shift + L`   | Select All Matches and Edit/Delete |
 | `Ctrl + P`           | Quick Open Menu                    | `Ctrl + D`           | Add Selection to Matches           |

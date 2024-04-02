@@ -1,7 +1,7 @@
 # command prompt Shortcuts
 
 | Command                              | Description                                                  |
-| ------------------------------------ | ------------------------------------------------------------ |
+|--------------------------------------|--------------------------------------------------------------|
 | `cd {directory_path}`                | Change directory                                             |
 | `dir`                                | List contents of the current directory                       |
 | `cd ..`                              | Move up one directory level                                  |

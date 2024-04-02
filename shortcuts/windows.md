@@ -1,7 +1,7 @@
 # windows Shortcuts
 
 | Shortcut                           | Description                                                                                          |
-| ---------------------------------- | ---------------------------------------------------------------------------------------------------- |
+|------------------------------------|------------------------------------------------------------------------------------------------------|
 | `Ctrl + F`                         | Find (search) on Windows (Works in most applications and browsers)                                   |
 | `Win + D`                          | Show desktop (minimize all windows)                                                                  |
 | `Win + 1` (or other numbers)       | Open the corresponding pinned shortcut on the taskbar                                                |
