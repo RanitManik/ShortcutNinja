@@ -1,7 +1,4 @@
-<a name="readme-top"></a>
-<div align="center">
-   <h1>ShortcutNinja - Programmer's Power Shortcuts</h1>
-</div>
+# ShortcutNinja
 
 Welcome to the ShortcutNinja repository! This project aims to compile a comprehensive list of essential keyboard shortcuts and productivity tips for programmers and power users. Whether you are a seasoned developer or just getting started, ShortcutNinja will help you level up your workflow and boost your efficiency.
 
