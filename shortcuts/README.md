@@ -1,5 +1,3 @@
-# Table of Contents
-
 | #  | Topic                                         | Description                                                                    |
 |----|-----------------------------------------------|--------------------------------------------------------------------------------|
 | 1. | [Photoshop Shortcuts](Photoshop.md)           | Explore a comprehensive list of shortcuts for Adobe Photoshop.                 |
