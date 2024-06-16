@@ -1,5 +1,3 @@
-<div align = "center">
-  
 # Jetbrains IDE's Shortcuts
 
 | Command                       | Description                                          |
@@ -20,5 +18,3 @@
 | `Shift + Ctrl + A`            | Find action                                          |
 | `Shift + Shift`               | Search anywhere                                      |
 | `Ctrl + Alt + Shift + J`      | Select all case-sensitively matching words           |
-
-</div>
