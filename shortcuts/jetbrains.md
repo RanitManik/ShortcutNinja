@@ -18,3 +18,4 @@
 | `Shift + Ctrl + A`            | Find action                                          |
 | `Shift + Shift`               | Search anywhere                                      |
 | `Ctrl + Alt + Shift + J`      | Select all case-sensitively matching words           |
+| `Alt + Left/Right Arrow`      | Switch between open windows                          |
